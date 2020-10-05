@@ -2,8 +2,12 @@
 layout: post
 title:  "Princípios Herméticos da Computação"
 date:   2020-10-04 19:34:10 -0300
-categories: jekyll update
+categories: posts
 ---
+
+{:refdef: style="text-align: center;"}
+![hermetic](/assets/images/hermetic.jpg)
+{: refdef}
 
 ## Introdução
 Foi na Antiguidade que se revelou pela primeira vez a substância que habita por trás do visível.
@@ -40,6 +44,10 @@ O princípio da correspondência foi primeiro enunciado por Hermes Trismegisto, 
 Assim estipula o preceito: "o que está em cima é como o que está embaixo.".
 Seu significado é a equivalência das Leis Universais em todos os planos.
 Cabe explicar quais planos são esses.
+
+{:refdef: style="text-align: center;"}
+![correspondence](/assets/images/correspondence.gif)
+{: refdef}
 
 O primeiro é o plano material.
 Nele reside o código que será efetivamente compilado e executado, os arquivos de configuração, a arqueologia dos repositórios e os instrumentos que os discípulos manejam para conjurar comandos arcanos.
@@ -96,6 +104,10 @@ Quem quer que queira sorver dos estudos herméticos e alquímicos deve conciliar
 Assim enuncia o Princípio da Identidade:
 "Aquilo que é deve sê-lo através do tempo e do espaço".
 
+{:refdef: style="text-align: center;"}
+![correspondence](/assets/images/identity.jpg)
+{: refdef}
+
 Ainda que um código nasça perfeito, o futuro lhe predestina a ação do Grande Alquimista: o Tempo.
 Mudam as dependências, mudam os autores, os requisitos mudam, e parece não haver nada imune à mudança.
 Falso: o Tempo mutila o impermanente, mas aquilo que É persiste.
@@ -137,6 +149,10 @@ Sua arcaica origem remonta a Aristóteles, que racionalizou que todo efeito prov
 Expressões mais recentes incluem Newton, na consagrada lei da ação e reação, e a obra cibernética de Wiener.
 Estas leis, contendo o fundamento dos princípios ocultos, já não incluem parte crucial do axioma hermético: que o tempo de resposta pode ser manipulado.
 Isto será compreendido em breve.
+
+{:refdef: style="text-align: center;"}
+![correspondence](/assets/images/globes.jpg)
+{: refdef}
 
 Não há decisão que seja episódica na alquimia computacional.
 Todo modelo será um dia confrontado com a própria realidade.
