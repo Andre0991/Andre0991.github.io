@@ -93,7 +93,7 @@ Por outro lado, os que dedicam suas almas aos estudos sabem que esta lei não é
 Apenas aqueles que são cientes do Oculto reconhecem a eterna redescoberta das Verdades Fundamentais.
 
 ## O Princípio da Identidade
-Mudança e permanência e disputam a natureza da história.
+Mudança e permanência disputam a natureza da história.
 São conhecidos seus proponentes pioneiros: Heráclito e Parmênides.
 No fundo, versam sobre a imemorial questão da identidade.
 Pois aquilo que é deve sê-lo através do tempo e do espaço.
