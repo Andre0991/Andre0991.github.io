@@ -18,7 +18,7 @@ O material que percorre a nervura das veias do universo é o Número.
 Assim deduziram os antigos pitagóricos, a seita mais conhecida e que já dominava completamente os Preceitos Originais.
 A verdade ardeu também proferida pelos geômetras do Egito e os cabalistas, que em solos sagrados decifraram a configuração do universo. 
 O Conhecimento Original foi protegido e propagado pelos mestres da Álgebra e da Lógica ao longo dos séculos.
-O ensino dos Preceitos, dotados de uma potência generativa infinita, foram rigorosamente restritos a seletos grupos de aprendizes incorruptíveis, que faziam de suas vidas pontes para a posteridade.
+O ensino dos Preceitos, dotados de uma potência generativa infinita, foi rigorosamente restrito a seletos grupos de aprendizes incorruptíveis, que faziam de suas vidas pontes para a posteridade.
 O estudo sagrado das Artes Matemáticas finalmente redundou no último elemento da Sagrada Tríade: a Computação.
 Pois o objetivo último da História Oculta não é meramente descrever este universo, mas tornar cada aprendiz um demiurgo capaz de criar os seus próprios mundos.
 
@@ -26,7 +26,7 @@ Não existe regra ou princípio na infinita seara de documentos, guias e manuscr
 Hoje, os aprendizes das artes computacionais estudam um extenso leque de assuntos: descrevem as minúcias de algoritmos, percorrem os caminhos dos grafos, se incursionam nas topologias das redes, e até mesmo emulam supostas inteligências.
 E, no entanto, emaranhado nas tecnicidades do saber comum, o leigo percorre um círculo sem jamais vislumbrar seu centro: os Princípios Fundamentais, dos quais hoje não se vê senão ecos e sombras.
 
-Platão nos diz que "é preferível a ignorância absoluta ao conhecimentos em mãos inadequadas".
+Platão nos diz que "é preferível a ignorância absoluta ao conhecimento em mãos inadequadas".
 Temendo a corrupção dos princípios originais, alguns pretensos conhecedores das verdades ocultas transmutaram seus preceitos em um conjunto de regras e prescrições.
 Simplificaram a verdade oculta em dogmas arbitrários.
 Assim, dizem-nos que "uma função não deve ter mais do que 5 linhas".
@@ -58,9 +58,9 @@ Assim, inverte causa e efeito: pois o plano material nada mais é do que a concr
 
 O plano seguinte é o arquitetural.
 Nele habitam e se relacionam os sistemas que se comunicam através de mensagens e eventos.
-O discípulo que se ultrapassa o plano material compreende que para além do concreto existe Forma.
+O discípulo que ultrapassa o plano material compreende que para além do concreto existe Forma.
 Ninguém pode capturar a arquitetura de um edifício de frente a suas paredes: é necessário distanciamento.
-Da mesma forma, o plano arquitetural só é acessível ao iniciado se eleva.
+Da mesma forma, o plano arquitetural só é acessível ao iniciado que se eleva.
 É preciso perseverança aos aprendizes que almejam esta escalada mental, pois a atração do plano inferior é potente.
 Inúmeros incautos negam a realidade dos planos superiores.
 Supõem que aquilo que não pode ser tocado, manipulado e movido não existe.
@@ -70,7 +70,7 @@ O terceiro plano é o organizacional. Compreende o arranjo das associações, gr
 Mesmo o mais sábio alquimista não pode exercer seu ofício completamente só.
 Onde quer que haja trabalho, logo se molda uma teia invisível de relações entre pessoas e grupos.
 Bastam dois iniciados para que haja hierarquia e organização.
-Isto é tão certo o quanto a matéria.
+Isto é tão certo quanto a matéria.
 
 Munido do conhecimento dos planos, recapitulemos o axioma hermético: "o que está em cima é como o que está embaixo".
 Pois cada plano é regido pelas mesmas regras.
@@ -84,7 +84,7 @@ E não pode haver distinção na organização social: as equipes de aprendizes 
 São como guildas de alquimistas que dispõem de todo o material a ser transmutado.
 Neste exemplo, como em inesgotáveis outros, está demonstrada a equivalência dos planos.
 
-Assim, a feitura da mais minúscula das funções contém o todos os enigmas, mistérios e segredos que habitam os planos superiores.
+Assim, a feitura da mais minúscula das funções contém todos os enigmas, mistérios e segredos que habitam os planos superiores.
 
 Qualquer mago já se deparou com o princípio da correspondência em alguma de suas infinitas bifurcações.
 Lei de Conway: "Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure"
@@ -181,6 +181,6 @@ Ali há também o Princípio, cuja natureza é tão humana o quanto técnica.
 E não raro todas estas etapas são satisfeitas, mas a execução do código produz erros.
 Se algum mecanismo de detecção e alerta, eis o Princípio da Resposta aplicado.
 
-Os iniciados devem cuidar para que não se apaguem por demasiado a qualquer técnica específica do Princípio da Resposta.
+Os iniciados devem cuidar para que não se apeguem por demasiado a qualquer técnica específica do Princípio da Resposta.
 Pois é comum incautos travarem guerras defendendo, por exemplo, static typing, sem notarem que esta tática pode muitas vezes ser substituída por outras sem prejuízo ao Princípio, que é a verdade fundamental e primordial.
 O iniciado que alcança os céus mais elevados deve estar livre do apego, senão aos próprios princípios.
