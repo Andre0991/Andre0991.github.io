@@ -5,8 +5,6 @@ date:   2021-10-05 19:34:10 -0300
 categories: posts
 ---
 
-# Arte e Autonomia
-
 Levantemos a seguinte hipótese:
 
 **A beleza de uma obra de arte é superior quando suas partes podem ser compreendidas em isolamento.**
