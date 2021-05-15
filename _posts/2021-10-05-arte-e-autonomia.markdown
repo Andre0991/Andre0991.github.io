@@ -12,6 +12,10 @@ Levantemos a seguinte hipótese:
 Em seguida, testaremos o quanto essa ideia resiste na arte.
 Não para propriamente avaliar o seu grau de verdade, mas sim como um experimento mental que refina a apreciação e a experiência.
 
+{:refdef: style="text-align: center;"}
+![islamic-art](/assets/images/islamic-art-patterns-arabesque.jpg)
+{: refdef}
+
 Assumimos a estranha hipótese de que contexto e beleza são pólos opostos.
 Assim, uma obra que exige conhecimento prévio do público é menor do que pode ser apreciada de imediato.
 
