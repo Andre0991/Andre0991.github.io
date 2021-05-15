@@ -25,6 +25,10 @@ Depois, este exato processo é repetido, e assim ocorre de novo e sucessivas vez
 Então, com uma imensa lupa, o crítico põe seus olhos sob um pedaço atômico e tenta extrair dele algum sentido independente do restante da obra.
 Se o átomo de arte for cheio de significado, a obra é bem sucedida.
 
+{:refdef: style="text-align: center;"}
+![escher-metamorphose](/assets/images/escher-metamorphose-2.png)
+{: refdef}
+
 A Arte de Fuga, maravilha sonora:
 Com a partitura posta à mesa, abrimos ao acaso o terceiro Contrapunctus.
 A fuga em mãos, separemos uma página, e fixemos nossa atenção no primeiro compasso visível.
