@@ -11,10 +11,10 @@ Uma guerra abstrata perpassa a história da computação: a disputa entre realis
 
 De um lado estão os utópicos, sempre prestes a encontrar o paraíso.
 São sobretudo criadores de abstrações.
-Suas linguagens podem ser orientadas a objetos - no sentido original, se alguém já compreendeu o que isto sgnifica - ou, não sendo, favorecem constelações de tipos, conceitos e hierarquias.
+Suas linguagens podem ser orientadas a objetos - no sentido original, se alguém já compreendeu o que isto significa - ou, não sendo, favorecem constelações de tipos, conceitos e hierarquias.
 Estes são os idealistas.
 
-No outro campo estão os realistas, e a sua realidade são os dados.
+No outro campo estão os realistas, e os dados são a sua realidade.
 Obedecem à máxima: Um programa começa a se corromper quando se distancia demais dos dados.
 Nessa corrente estão os paradigmas funcionais e data-driven.
 Suas linguagens são ferramentas para manipular a matéria bruta.
@@ -28,6 +28,18 @@ Sua filosofias produzem peças independentes e minúsculas; suas interfaces são
 Assim, sistemas complexos emergem naturalmente da interação dessas peças.
 Exemplo: Unix.
 Realistas são bottom-up.
+
+---
+
+Idealists invest in complex tooling for making problems simpler.
+Realists invest in simple problems for making complex tools uncessary.
+
+Dito isto, qual filosofia prevalece?
+Tome um sistema aleatório: quase certamente este será realista.
+Pois eles têm tão poucas premissas que conseguem ser adotados de diferentes maneiras: por isso, sua fraqueza é o que eles têm de melhor.
+São como fungos ou bactérias milenares.
+Idealistas catedrais invisíveis.
+Ted Nelson?
 
 # data: verbs vs nouns
 # abstraction
