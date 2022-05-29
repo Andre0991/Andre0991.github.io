@@ -9,7 +9,6 @@ categories: posts
 A function is said to be *overfit* when it is more specific than it needs to be.
 The specificity might come from its arguments, its return value, or both.
 
-
 {:refdef: style="text-align: center;"}
 ![a-demora-wendell-well](/assets/images/a-demora-wendell-well.jpg)
 {: refdef}
