@@ -18,11 +18,14 @@ Functions that are too specific are harder to grasp.
 
 ### Incidental similarity
 
+Some functions look similar in surface, but represent different things.
+In extreme cases, they might even be *identical* (having the same code), but having different meanings, that is, semantics.
 
 {:refdef: style="text-align: center;"}
 ![la-reproduction-interdite](/assets/images/la-reproduction-interdite.jpg)
 {: refdef}
 
+Merging such functions would be a mistake, because their similarity is merely *incidental*: they seem to be equal today, but they have distinct meanings and should evolve independently.
 
 ### Pseudoabstraction
 A pseudoabstraction is the result of declouping a part of a system in a way that understanding the split part is impossible without referring to the original system.
@@ -32,7 +35,6 @@ A pseudoabstraction is the result of declouping a part of a system in a way that
 {: refdef}
 
 
-
 For example, when a function gets too big, it might be tempting to extract some portion of it to a new function.
 This might result in a new function that cannot be undertood unless one knows the original one.
-That function would be a pseudoabstraction.
+That would be a pseudoabstraction.
