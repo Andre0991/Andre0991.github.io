@@ -17,13 +17,18 @@ Functions that are too specific are harder to grasp.
 
 ### Incidental similarity
 
+
 {:refdef: style="text-align: center;"}
-![maggrete-the-double-secret](/assets/images/maggrete-the-double-secret.png)
+![la-reproduction-interdite](/assets/images/la-reproduction-interdite.jpg)
 {: refdef}
 
 
 ### Pseudoabstraction
 A pseudoabstraction is the result of declouping a part of a system in a way that understanding the split part is impossible without referring to the original system.
+
+{:refdef: style="text-align: center;"}
+![maggrete-the-double-secret](/assets/images/magrette-the-double-secret.png)
+{: refdef}
 
 
 
