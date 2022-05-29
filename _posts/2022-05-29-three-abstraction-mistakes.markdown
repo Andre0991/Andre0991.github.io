@@ -6,7 +6,7 @@ categories: posts
 ---
 
 ### Function overfitting
-A function is said to be overfit when it is more specific than it needs to be.
+A function is said to be *overfit* when it is more specific than it needs to be.
 The specificity might come from its arguments, its return value, or both.
 
 
@@ -36,4 +36,4 @@ A pseudoabstraction is the result of declouping a part of a system in a way that
 
 For example, when a function gets too big, it might be tempting to extract some portion of it to a new function.
 This might result in a new function that cannot be undertood unless one knows the original one.
-That would be a pseudoabstraction.
+That would be a *pseudoabstraction*.
