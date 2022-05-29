@@ -34,7 +34,6 @@ A pseudoabstraction is the result of declouping a part of a system in a way that
 ![magrete-the-double-secret](/assets/images/magrette-the-double-secret.jpg)
 {: refdef}
 
-
 For example, when a function gets too big, it might be tempting to extract some portion of it to a new function.
 This might result in a new function that cannot be undertood unless one knows the original one.
 That would be a pseudoabstraction.
