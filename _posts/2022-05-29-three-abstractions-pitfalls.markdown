@@ -45,7 +45,7 @@ The intensity of the details.
 Their extreme precision.
 The lack of gaps.
 
-Victms of their own perfection:
+Victims of their own perfection:
 There is no room to breathe.
 
 {:refdef: style="text-align: center;"}
