@@ -44,6 +44,9 @@ Merging such functions would be a mistake, because their similarity is merely *i
 Não há abstração que resista à realidade.
 A realidade é una e complexa: tudo muda tudo.
 A borboleta que levanta voo.
+A borboleta que levanta voo no quintal pode desencadear um tornado.
+
+Ainda assim, sendo toda abstração falhas, algumas são mais falhas mais do que as outras.
 
 {:refdef: style="text-align: center;"}
 ![magrete-the-double-secret](/assets/images/magrette-the-double-secret.jpg)
