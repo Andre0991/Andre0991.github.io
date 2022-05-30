@@ -40,12 +40,12 @@ Just like dreams.
 
 ### Function overfitting
 
-There's something uncanny about hyperrealistic paintings.
+There's something uncanny about hyperrealism.
 The intensity of the details.
 Their extreme precision.
 The lack of gaps.
 
-They are victms of their own perfection.
+Victms of their own perfection:
 There is no room to breathe.
 
 {:refdef: style="text-align: center;"}
