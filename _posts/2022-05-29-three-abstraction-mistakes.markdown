@@ -7,13 +7,21 @@ categories: posts
 
 ### Incidental similarity
 
-Sonhar é assombroso, e sempre será.
-Vê-se imagens: imagens não menos perfeitas que as que são transformadas pela retina.
-Sentem-se cheiros: cheiros fiéis ao não-sonho.
-Ouvem-se vozes: vozes como as de quem as escuta desperto.
-E, no entanto, só um louco (ou um gênio) poderia igualar o universo onírico à realidade dos acordados.
+<!-- Sonhar é assombroso, e sempre será. -->
+<!-- Vê-se imagens: imagens não menos perfeitas que as que são transformadas pela retina. -->
+<!-- Sentem-se cheiros: cheiros fiéis ao não-sonho. -->
+<!-- Ouvem-se vozes: vozes como as de quem as escuta desperto. -->
+<!-- E, no entanto, só um louco (ou um gênio) poderia igualar o universo onírico à realidade dos acordados. -->
 
-Assim opera o princípio da incidental similarity: realça a falsa igualdade do ponto de partida.
+<!-- Assim opera o princípio da incidental similarity: realça a falsa igualdade do ponto de partida. -->
+
+Dreaming is astonishing, and always will be.
+One sees images: images no less perfect than those transformed by the retina.
+Smells are smelled: smells faithful to the non-dream.
+Voices are heard: voices like those of someone who is awake.
+And yet, only a madman (or a genius) could equate the dreamlike universe with the waking reality.
+
+This is how the principle of incidental similarity works: it highlights the false equality of the starting point.
 
 {:refdef: style="text-align: center;"}
 ![la-reproduction-interdite](/assets/images/la-reproduction-interdite.jpg)
@@ -43,15 +51,25 @@ Functions that are too specific are harder to grasp.
 
 ### Pseudoabstraction
 
-Não há abstração que resista à realidade.
-A realidade é una e complexa: tudo muda tudo.
-Nenhum recorte é permitido.
-A borboleta que levanta voo no quintal pode desencadear um tornado.
+<!-- Não há abstração que resista à realidade. -->
+<!-- A realidade é una e complexa: tudo muda tudo. -->
+<!-- Nenhum recorte é permitido. -->
+<!-- A borboleta que levanta voo no quintal pode desencadear um tornado. -->
 
-Mesmo assim, criamos explicações que excluem a maior parte do real, pois só assim é factível compreender o mundo.
+<!-- Mesmo assim, criamos explicações que excluem a maior parte do real, pois só assim é factível compreender o mundo. -->
 
-Sendo toda abstração falhas, algumas são mais falhas mais do que as outras.
-A pseudoabastraction is a specific case of failure.
+<!-- Sendo toda abstração falha, algumas são mais falhas mais do que as outras. -->
+<!-- A pseudoabastraction is a specific case of failure. -->
+
+There is no abstraction that resists reality.
+Reality is one and complex: everything changes everything.
+No clipping is allowed.
+The butterfly that takes flight in the backyard can trigger a tornado.
+
+Even so, we create explanations that exclude most of the real, because only then is it possible to understand the world.
+
+Since every abstraction is flawed, some are more flawed than others.
+Pseudoabastraction is a specific case of failure.
 
 {:refdef: style="text-align: center;"}
 ![magrete-the-double-secret](/assets/images/magrette-the-double-secret.jpg)
@@ -62,3 +80,5 @@ A pseudoabstraction is the result of decoupling a part of a system in a way that
 When a function gets too big, it might be tempting to extract some portion of it to a new function.
 This might result in a new function that *cannot be understood without consulting the original one*.
 That would be a *pseudoabstraction*.
+
+Do not try too hard to abstract things: reality always imposes itself.
