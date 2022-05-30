@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Three abstraction mistakes"
+title:  "Three abstraction's pitfalls"
 date:   2022-05-29 19:34:10 -0300
 categories: posts
 ---
@@ -28,26 +28,41 @@ This is how the principle of incidental similarity works: it highlights the fals
 {: refdef}
 
 Some functions look similar in surface, but represent different things.
-Consider two functions that have only slightly different behaviours.
-Merging such functions would be a mistake, because 
+Consider two functions that have only slightly different behaviors.
 You might think that joining these function would simplify the code.
-But then, as time passes, it could need to support more and more behaviours.
-The abstraction fails apart quickly and you realise they should have always have stayed independent.
+But then, as time passes, it would need to support more and more behaviors.
+The abstraction fails apart quickly, and you realize they should always have stayed independent.
 That's because their similarity was merely *incidental*: they seem to be equal today, but they have distinct meanings and should evolve independently.
 
 In extreme cases, functions might even look *identical* (having the same code).
 But they are not.
-Just like a dream.
+Just like dreams.
 
 ### Function overfitting
-A function is said to be *overfit* when it is more specific than it needs to be.
-The specificity might come from its arguments, its return value, or both.
+
+There's something uncanny about hyperrealistic paintings.
+The intensity of the details.
+Their extreme precision.
+The lack of gaps.
+
+They are victms of their own perfection.
+There is no room to breathe.
 
 {:refdef: style="text-align: center;"}
 ![a-demora-wendell-well](/assets/images/a-demora-wendell-well.jpg)
 {: refdef}
 
-Functions that are too specific are harder to grasp.
+A function is said to be *overfit* when it is more specific than it needs to be.
+The specificity might come from its arguments, its return value, or both.
+
+Creating an over-specific function is easy: write code that returns exactly the data you need.
+It will work.
+But it might be difficult to grasp.
+Get a step back.
+Instead, write a function that performs a slightly more general operation.
+Then, use its return value for extracting the specifics.
+
+General is easy to grok. Specifics are not simple.
 
 ### Pseudoabstraction
 
@@ -68,8 +83,8 @@ The butterfly that takes flight in the backyard can trigger a tornado.
 
 Even so, we create explanations that exclude most of the real, because only then is it possible to understand the world.
 
-Since every abstraction is flawed, some are more flawed than others.
-Pseudoabastraction is a specific case of failure.
+Although every abstraction is flawed, some are more flawed than others.
+A pseudoabstraction is a specific case of failure.
 
 {:refdef: style="text-align: center;"}
 ![magrete-the-double-secret](/assets/images/magrette-the-double-secret.jpg)
