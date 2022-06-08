@@ -45,8 +45,7 @@ The intensity of the details.
 Their extreme precision.
 The lack of gaps.
 
-Victims of their own perfection:
-There is no room to breathe.
+Such are overfit functions: victims of its own perfection.
 
 {:refdef: style="text-align: center;"}
 ![a-demora-wendell-well](/assets/images/a-demora-wendell-well.jpg)
@@ -62,7 +61,8 @@ Get a step back.
 Instead, write a function that performs a slightly more general operation.
 Then, use its return value for extracting the specifics.
 
-General is easy to grok. Specifics are not simple.
+General is simple.
+Specific is complex.
 
 ### Pseudoabstraction
 
@@ -96,4 +96,5 @@ When a function gets too big, it might be tempting to extract some portion of it
 This might result in a new function that *cannot be understood without consulting the original one*.
 That would be a *pseudoabstraction*.
 
-Do not try too hard to abstract things: reality always imposes itself.
+Do not try too hard to abstract things.
+Reality always imposes itself.
