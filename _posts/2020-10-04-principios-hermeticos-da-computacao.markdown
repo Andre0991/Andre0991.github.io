@@ -37,7 +37,7 @@ Deste modo, substituíram o entendimento pela obediência cega.
 
 E, no entanto, tão logo o discípulo dessas seitas exercita sua prática, ele se depara com alguma contradição: se segue um princípio, viola outro.
 Ora, essas aparentes contradições só são superadas pelo conhecimento profundo das Verdades Arcanas.
-O Preceitos Herméticos da Computação reconciliam todos os paradoxos, harmonizam os contrários e dissolvem as diferenças.
+Os Preceitos Herméticos da Computação reconciliam todos os paradoxos, harmonizam os contrários e dissolvem as diferenças.
 
 ## O princípio da correspondência
 O princípio da correspondência foi primeiro enunciado por Hermes Trismegisto, três vezes grande, que é o autor da Filosofia Hermética.
