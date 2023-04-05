@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Separação"
+date:   2023-04-04 21:03:10 -0300
+categories: posts
+---
+
 A realidade é uma cola dura, grudada, inseparável. Indomável até, quando enfim foi inventada a primeira variável. Era pouco para descrever o todo: criaram mil variáveis, e mil dentro de cada mil. Então havia variáveis demais, e então foi encontrada a justa medida: um punhado delas, que eram independentes e suficientes, senão para reconstruir o todo, para esticar-se nele ao máximo.
 
 Disto surgiu o mito racionalista.
