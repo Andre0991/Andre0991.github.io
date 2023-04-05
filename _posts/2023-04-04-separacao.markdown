@@ -5,7 +5,7 @@ date:   2023-04-04 21:03:10 -0300
 categories: posts
 ---
 
-A realidade é uma cola dura, grudada, inseparável. Indomável até, quando enfim foi inventada a primeira variável. Era pouco para descrever o todo: criaram mil variáveis, e mil dentro de cada mil. Então havia variáveis demais, e então foi encontrada a justa medida: um punhado delas, que eram independentes e suficientes, senão para reconstruir o todo, para esticar-se nele ao máximo.
+A realidade é uma cola dura, grudada, inseparável. Indomável até, quando enfim foi inventada a primeira variável. Era pouco para descrever o todo: criaram mil variáveis, e mil dentro de cada mil. Então havia variáveis demais, e então foi encontrada a justa medida: um punhado delas, que eram independentes e suficientes, se não para reconstruir o todo, para esticar-se nele ao máximo.
 
 {:refdef: style="text-align: center;"}
 ![complex](/assets/images/beltjens-complex.jpg)
